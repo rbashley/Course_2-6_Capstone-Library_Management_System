@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbash\\Documents\\GitHub\\Course_2-6_Capstone-Library_Management_System\\Course_2-6_Capstone-Library_Management_System.csproj": {}
+    "/Users/randallashley/Documents/GitHub/Course_2-6_Capstone-Library_Management_System/Course_2-6_Capstone-Library_Management_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbash\\Documents\\GitHub\\Course_2-6_Capstone-Library_Management_System\\Course_2-6_Capstone-Library_Management_System.csproj": {
+    "/Users/randallashley/Documents/GitHub/Course_2-6_Capstone-Library_Management_System/Course_2-6_Capstone-Library_Management_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbash\\Documents\\GitHub\\Course_2-6_Capstone-Library_Management_System\\Course_2-6_Capstone-Library_Management_System.csproj",
+        "projectUniqueName": "/Users/randallashley/Documents/GitHub/Course_2-6_Capstone-Library_Management_System/Course_2-6_Capstone-Library_Management_System.csproj",
         "projectName": "Course_2-6_Capstone-Library_Management_System",
-        "projectPath": "C:\\Users\\rbash\\Documents\\GitHub\\Course_2-6_Capstone-Library_Management_System\\Course_2-6_Capstone-Library_Management_System.csproj",
-        "packagesPath": "C:\\Users\\rbash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbash\\Documents\\GitHub\\Course_2-6_Capstone-Library_Management_System\\obj\\",
+        "projectPath": "/Users/randallashley/Documents/GitHub/Course_2-6_Capstone-Library_Management_System/Course_2-6_Capstone-Library_Management_System.csproj",
+        "packagesPath": "/Users/randallashley/.nuget/packages/",
+        "outputPath": "/Users/randallashley/Documents/GitHub/Course_2-6_Capstone-Library_Management_System/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rbash\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/randallashley/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
